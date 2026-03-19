@@ -1,2 +1,3 @@
-# fast-quiz-platform-0occ
-Automated issue comment bot repository
+# Fast Quiz Platform 0Occ
+
+Automated issue comment bot repository.
